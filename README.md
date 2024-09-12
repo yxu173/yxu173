@@ -31,9 +31,5 @@ I'm a passionate developer from Egypt. I enjoy building web applications, explor
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter](https://x.com/MRX17__))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio-link.com)
 
-## 💼 Featured Projects
-- [Project 1](https://github.com/MRX173/Blogging-Api): Blogging api using .net core and ef core.
-- [Project 2](https://github.com/MRX173/E-CommerceApi): e-commerce apiusing .net core and ef core.
-- [Project 3](https://github.com/your-username/project-3): Brief description of the project.
 
 ![Footer](https://user-images.githubusercontent.com/your-image-path/your-footer.png)
