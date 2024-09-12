@@ -16,15 +16,15 @@ I'm a passionate developer from Egypt. I enjoy building web applications, explor
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRX173&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRX173&layout=compact&theme=tokyonight)](https://github.com/your-username)
 
 ## 📈 Contribution Graph
-![Your GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true)
+![Your GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRX173&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&margin-w=15&margin-h=15)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRX173&theme=onestar&no-frame=true&margin-w=15&margin-h=15)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohamed-samir-a770a722a/))
