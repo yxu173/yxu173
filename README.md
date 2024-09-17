@@ -7,7 +7,7 @@ I'm a passionate developer from Egypt. I enjoy building web applications, explor
 
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,docker,git,github,go,postgres,redis,vim)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRX173&show_icons=true&theme=tokyonight)
