@@ -10,8 +10,7 @@ I'm a passionate developer from Egypt. I enjoy building web applications, explor
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,docker,git,github,go,postgres,redis,vim,rust,neovim,neovim,graphql,postman)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRX173)](https://github.com/MRX173/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRX173&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRX173&layout=compact&theme=tokyonight)](https://github.com/your-username)
 
 ## 📈 Contribution Graph
