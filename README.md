@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm MRX173!
 
-[![Hello World, I'm MRX173!](header.gif)](https://github.com/MRX173)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm MRX173!](d13556ec053cffc2410a682ee33436d6.jpg)](https://github.com/MRX173)
 
 ## 🚀 About Me
 I'm a passionate developer from Egypt. I enjoy building web applications, exploring new technologies, and contributing to open-source projects.
