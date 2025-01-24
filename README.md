@@ -1,3 +1,5 @@
+# 👋 Hi there! I'm Mohamed Samir!
+
 ![Image](d13556ec053cffc2410a682ee33436d6.jpg)
 
 ###
@@ -8,19 +10,21 @@
 
 ###
 
-# hey there 👋
+
 
 ###
 
-### 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🚀 Skilled in .NET Core, EF Core, Postgres, Golang, Gin, and GORM, with a strong focus on CQRS, Domain-Driven Design (DDD), and Clean Architecture.  
 🔬 Currently exploring Machine Learning and Deep Learning  
 💻 A Linux enthusiast using Arch Linux with Hyprland, and I love optimizing my development environment with tools like Neovim.
 
-###
 
-### 🚀 Tech Stack
+
+
+
+# 🚀 Tech Stack
 
 🖥️ **Backend**  
 Languages: C#, Go  
@@ -36,33 +40,35 @@ Coding Environments: Neovim, LazyGit, Rider, DataGrip
 Architectures: Clean Architecture, CQRS, Event Sourcing  
 Version Control: Git  
 
-###
 
-### 📚 Currently Learning
+
+
+
+
+# 📚 Currently Learning
 
 - Advanced Database Management  
 - Event Sourcing  
 
-###
 
-### ✨ Fun Facts
+
+# ✨ Fun Facts
 
 🌱 I’m always looking to learn new tools and technologies to level up my skills.  
 🎨 I enjoy customizing my tools and workflows for maximum productivity.  
 
-###
 
-### 🛠 Language and Tools
+
+# 🛠 Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,docker,git,github,go,postgres,redis,vim,rust,neovim,neovim,graphql,postman,python,rust)](https://skillicons.dev)
 
-###
+
 
 ### 🔥 My Stats
 
 ![Streak Stats](https://streak-stats.demolab.com?user=yxu173&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
-###
 
 ## 📈 Contribution Graph
 ![Your GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yxu173&theme=react-dark&bg_color=20232a&hide_border=true)
