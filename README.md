@@ -32,7 +32,7 @@ Relational: PostgreSQL
 Search & Caching: Elasticsearch, Redis  
 
 🔧 **Tools & Workflows**  
-Coding Environments: Neovim (LazyVim), Rider, DataGrip  
+Coding Environments: Neovim, LazyGit, Rider, DataGrip 
 Architectures: Clean Architecture, CQRS, Event Sourcing  
 Version Control: Git  
 
@@ -54,22 +54,7 @@ Version Control: Git
 
 ### 🛠 Language and Tools
 
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg) 
-![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) 
-![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg) 
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg) 
-![Anaconda](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg) 
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) 
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) 
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg) 
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) 
-![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) 
-![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg) 
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
-![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg) 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,docker,git,github,go,postgres,redis,vim,rust,neovim,neovim,graphql,postman,python,rust)](https://skillicons.dev)
 
 ###
 
@@ -78,3 +63,6 @@ Version Control: Git
 ![Streak Stats](https://streak-stats.demolab.com?user=yxu173&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 ###
+
+## 📈 Contribution Graph
+![Your GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yxu173&theme=react-dark&bg_color=20232a&hide_border=true)
