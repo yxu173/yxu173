@@ -45,19 +45,6 @@ Version Control: Git
 
 
 
-# 📚 Currently Learning
-
-- Advanced Database Management  
-- Event Sourcing  
-
-
-
-# ✨ Fun Facts
-
-🌱 I’m always looking to learn new tools and technologies to level up my skills.  
-🎨 I enjoy customizing my tools and workflows for maximum productivity.  
-
-
 
 # 🛠 Language and Tools
 
